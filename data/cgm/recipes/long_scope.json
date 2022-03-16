@@ -1,0 +1,20 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "tag": "forge:nuggets/iron",
+      "count": 6
+    },
+    {
+      "tag": "forge:glass_panes",
+      "count": 2
+    },
+    {
+      "tag": "forge:dyes/black",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "cgm:long_scope"
+  }
+}

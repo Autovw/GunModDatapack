@@ -1,0 +1,21 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "tag": "forge:nuggets/iron",
+      "count": 1
+    },
+    {
+      "tag": "forge:gunpowder",
+      "count": 2
+    },
+    {
+      "tag": "forge:dusts/glowstone",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "cgm:stun_grenade",
+    "count": 2
+  }
+}
