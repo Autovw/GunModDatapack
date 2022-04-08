@@ -1,0 +1,2 @@
+# exclude IntelliJ IDEA files from the repository
+*.idea
